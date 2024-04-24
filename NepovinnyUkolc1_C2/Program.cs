@@ -42,7 +42,7 @@
             int typUzivatele = int.Parse(cisloUzivatele);
             while (typUzivatele != nahodneCislo)
             {
-               
+
                 if (typUzivatele > nahodneCislo)
 
                 {
